@@ -3,6 +3,8 @@
 ## Overview
 This is my final project for COM S 5762X: Introduction to Mobile Robotics at Iowa State. It is a controller for the Unitree G1 to play pool in a MuJoCo simulation.
 
+<video src="topdown_pool.mp4" width="320" height="240" controls></video>
+
 ## Install
 
 ```bash
